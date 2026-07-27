@@ -1,0 +1,32 @@
+# Virtual Environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+
+# Data exports
+data/raw/*
+data/interim/*
+data/processed/*
+
+# Ignore everything in these folders...
+data/raw/*
+data/interim/*
+data/processed/*
+
+# ...except this placeholder file
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
