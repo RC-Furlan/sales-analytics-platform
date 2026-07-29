@@ -229,14 +229,29 @@ These queries transform transactional data into business metrics consumed by the
 
 Add screenshots after publishing:
 
-```text
-docs/screenshots/overview.png
-docs/screenshots/sales.png
-docs/screenshots/customers.png
-docs/screenshots/products.png
-docs/screenshots/abc_curve.png
-docs/screenshots/churn.png
-```
+## Overview
+
+![Overview](docs/screenshots/overview.png)
+
+## Sales Performance
+
+![Sales Performance](docs/screenshots/sales.png)
+
+## Customer Analysis
+
+![Customer Analysis](docs/screenshots/customers.png)
+
+## Product Analysis
+
+![Product Analysis](docs/screenshots/products.png)
+
+## ABC Analysis
+
+![ABC Analysis](docs/screenshots/abc_curve.png)
+
+## Customer Retention
+
+![Customer Retention](docs/screenshots/churn.png)
 
 ---
 
