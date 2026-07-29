@@ -30,3 +30,8 @@ data/processed/*
 !data/raw/.gitkeep
 !data/interim/.gitkeep
 !data/processed/.gitkeep
+
+# SQL Server backup
+database/backup/*.bak
+database/backup/*.mdf
+database/backup/*.ldf

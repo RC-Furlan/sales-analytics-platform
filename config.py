@@ -1,0 +1,7 @@
+SERVER = r"LAPTOP-H93FDOP4\SQLEXPRESS"
+
+DATABASE = "AdventureWorks2022"
+
+DRIVER = "ODBC Driver 17 for SQL Server"
+
+TRUSTED_CONNECTION = "yes"
