@@ -239,7 +239,7 @@ Add screenshots after publishing:
 
 ## Customer Analysis
 
-![Customer Analysis](docs/screenshots/customers.png)
+![Customer Analysis](docs/screenshots/customer_analysis.png)
 
 ## Product Analysis
 
