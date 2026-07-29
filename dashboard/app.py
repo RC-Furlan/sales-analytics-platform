@@ -4,7 +4,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Sales Analytics Dashboard",
-    page_icon="📊",
+    page_icon=":atom_symbol:",
     layout="wide",
     initial_sidebar_state="expanded"
 )
